@@ -17,7 +17,7 @@ function App() {
 
     return (
     <>
-      <h1>Course with hitesh sir {counter}</h1>
+      <h1>Counter measurement basic {counter}</h1>
       <h2>counter value: {counter}</h2>
       <button onClick={addValue}>Add Value</button> {" "}
       <button onClick={removeValue}>Remove Value</button>
