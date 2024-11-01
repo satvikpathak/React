@@ -9,7 +9,7 @@ function Cards(props) {
   <div class="pt-6 md:p-8 text-center md:text-left space-y-4">
     <blockquote>
       <p class="text-lg font-medium">
-        Kidda peeps. {props.username} here.Beginning to really like tailwind as I move forward.
+        Kidda peeps. {props.username} here.Beginning to really like tailwind as I move forward.I hope this will be beneficial for me in the future.
       </p>
     </blockquote>
     <figcaption class="font-medium">
