@@ -1,2 +1,2 @@
 # Starting with react.js.
-Here we go again
+50% there . Not really . A lot to cover, too little time.
