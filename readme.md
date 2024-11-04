@@ -1,7 +1,6 @@
-# Starting with react.js.
-50% there . Not really . A lot to cover, too little time.
+# Some basic react projects
 ###
-To watch the projects, clone this repo then:-
+To run the projects, clone this repo then:-
 ###
 cd <project_name>
 ###
